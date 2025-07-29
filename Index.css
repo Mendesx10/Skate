@@ -38,8 +38,8 @@ body{
 
     /* Imagens */
 .imagens-skate{
-  display: flex;
-  justify-content: center;
+  display: flex; /* Flexível */
+  justify-content: center;  /* Alinhar */
   gap: 20px;
   margin-top: 30px;
 }
@@ -78,6 +78,7 @@ li{
   margin: 20px;
 }
 
+/* Conteudo */
 .equipamentos{
   padding: 10px ;
   margin: auto;
